@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.intellij:forms_rt:4.5.4" type="repository">
+    <properties maven-id="com.intellij:forms_rt:4.5.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intellij/forms_rt/4.5.4/forms_rt-4.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
